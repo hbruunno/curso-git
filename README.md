@@ -1,2 +1,1 @@
-apagando tudo 
-4 commit
+6 commit
